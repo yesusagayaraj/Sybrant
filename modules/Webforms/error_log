@@ -1,0 +1,5 @@
+[24-Nov-2016 12:31:25 Etc/GMT] PHP Parse error:  syntax error, unexpected '$currentLanguage' (T_VARIABLE) in /home/sybrantdigital/public_html/cf/modules/Webforms/capture.php on line 26
+[24-Nov-2016 12:32:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '$currentLanguage' (T_VARIABLE) in /home/sybrantdigital/public_html/cf/modules/Webforms/capture.php on line 26
+[24-Nov-2016 12:32:48 Etc/GMT] PHP Parse error:  syntax error, unexpected '$currentLanguage' (T_VARIABLE) in /home/sybrantdigital/public_html/cf/modules/Webforms/capture.php on line 26
+[24-Nov-2016 12:33:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '$currentLanguage' (T_VARIABLE) in /home/sybrantdigital/public_html/cf/modules/Webforms/capture.php on line 26
+[24-Nov-2016 12:33:54 Etc/GMT] PHP Parse error:  syntax error, unexpected '$currentLanguage' (T_VARIABLE) in /home/sybrantdigital/public_html/cf/modules/Webforms/capture.php on line 26

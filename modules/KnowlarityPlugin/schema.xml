@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_knowlarityplugin</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_knowlarityplugin` (
+  `knowlaritypluginid` int(11) NOT NULL DEFAULT '0',
+  `k_api_key` varchar(128) DEFAULT NULL,
+  `k_number` varchar(128) DEFAULT NULL,
+  `k_acc_name` varchar(128) DEFAULT NULL,
+  PRIMARY KEY (`knowlaritypluginid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_knowlarityplugincf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_knowlarityplugincf` (
+  `knowlaritypluginid` int(11) NOT NULL,
+  PRIMARY KEY (`knowlaritypluginid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>
